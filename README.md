@@ -6,7 +6,6 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -22,7 +21,7 @@
 
 ### Links
 
-- Live Site URL: [https://santiagomontanaro.github.io/profile-card-comp/]
+- Live Site URL: [https://santiagomontanaro.github.io/animated-price-card/]
 
 ## My process
 
