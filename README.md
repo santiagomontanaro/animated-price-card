@@ -17,8 +17,8 @@
 
 ### Screenshot
 
-![DESKTOP VERSION](images/ss-desktop.png)
-![MOBILE](images/ss-mobile.png)
+![DESKTOP VERSION](Design/ss-desktop.png)
+![MOBILE](Design/ss-mobile.png)
 
 ### Links
 
@@ -37,5 +37,4 @@
 
 - Frontend Mentor - [@santiagomontanaro](https://www.frontendmentor.io/profile/santiagomontanaro)
 - Twitter - [@santimontana_](https://twitter.com/santimontana_)
-- Instagram - [@lllliiiiilllj](https://www.instagram.com/lllliiiiilllj/)# testimonials-grid-section
-# animated-price-card
+- Instagram - [@lllliiiiilllj](https://www.instagram.com/lllliiiiilllj/)# testimonials-grid-section# animated-price-card
